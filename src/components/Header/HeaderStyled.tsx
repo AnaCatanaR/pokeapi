@@ -6,6 +6,7 @@ const HeaderStyled = styled.header`
   height: 150px;
 
   border-bottom: 2px solid yellow;
+  margin-bottom: 70px;
 
   justify-content: center;
   align-items: center;
